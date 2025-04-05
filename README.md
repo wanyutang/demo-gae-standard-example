@@ -1,6 +1,5 @@
 # Spring Boot on App Engine（實作練習專案）
 
-![AI Generated](https://img.shields.io/badge/AI-Generated-blueviolet?style=flat&logo=openai)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.0+-green?logo=springboot&style=flat)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-App_Engine-blue?logo=googlecloud&style=flat)
 ![Maven](https://img.shields.io/badge/Build-Maven-orange?logo=apachemaven&style=flat)
@@ -79,9 +78,3 @@ gcloud app deploy
 
 本專案僅供學習與個人筆記使用，原始教學與框架內容版權屬於其原作者。  
 Spring Boot 為 Pivotal Software 的產品；Google Cloud App Engine 為 Google 所擁有之服務。
-
----
-
-## 🤖 AI 協作說明
-
-本文由 Winny 撰寫，排版與部分文案調整由 AI 工具協助完成，所有內容皆經人工確認與補充。
