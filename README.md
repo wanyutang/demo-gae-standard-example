@@ -5,7 +5,7 @@
 ![Maven](https://img.shields.io/badge/Build-Maven-orange?logo=apachemaven&style=flat)
 
 本專案為 Google 官方 Codelab 課程  
-[Deploying a Spring Boot app to the Google Cloud App Engine Standard Environment](https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot) 的實作練習版本。
+[將 Spring Boot 應用程式部署至 App Engine 標準環境](https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot) 的實作練習版本。
 
 此版本將會補充個人操作筆記，並保留實作後的程式碼，以利學習與回顧。
 
@@ -78,3 +78,12 @@ gcloud app deploy
 
 本專案僅供學習與個人筆記使用，原始教學與框架內容版權屬於其原作者。  
 Spring Boot 為 Pivotal Software 的產品；Google Cloud App Engine 為 Google 所擁有之服務。
+
+## 相關連結
+
+- Google 官方 Codelab 課程 [將 Spring Boot 應用程式部署至 App Engine 標準環境](https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot) 
+- [Winny Labs](https://wanyutang.github.io/winny-labs/)
+
+## 會員專區
+
+- [Spring Boot 部署至 App Engine Demo.obs](obsidian://open?vault=winny-note&file=pages%2FSpring%20Boot%20%E9%83%A8%E7%BD%B2%E8%87%B3%20App%20Engine%20Demo)
